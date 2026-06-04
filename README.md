@@ -77,5 +77,5 @@
 </p>
 
 <p align="center">
-  <i>"El código es como el humor. Cuando tienes que explicarlo, es malo." 💻</i>
+  <i>Step by step... 💻</i>
 </p>
