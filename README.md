@@ -43,6 +43,7 @@
     <td align="center" width="50%">
       <h3>🌐 SURGEIX</h3>
       <p>Startup enfocada en el desarrollo y venta de soluciones <b>Software as a Service (SaaS)</b>. Liderando el diseño de arquitectura y desarrollo full-stack.</p>
+       <a href="https://surgeix.com">
       <p><img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow?style=flat-square" /></p>
     </td>
     <td align="center" width="50%">
