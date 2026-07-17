@@ -56,7 +56,7 @@
 # 🚀 Productos en Producción
 
 <p align="center">
-  <b>Actualmente lidero el desarrollo de tres productos SaaS en producción.</b>
+  <b>Actualmente lidero el desarrollo de 2 productos SaaS en producción.</b>
 </p>
 
 <table>
@@ -104,7 +104,7 @@ Plataforma SaaS para barberias y centros de belleza.
 
 ## 🌐 SURGEIX
 
-Startup dedicada al desarrollo de soluciones SaaS para empresas.
+Startup dedicada al desarrollo de soluciones a los negocioos / empresas. Actualmente contamos con 2 productos SAAS 
 
 <br>
 
@@ -122,7 +122,7 @@ Startup dedicada al desarrollo de soluciones SaaS para empresas.
 </table>
 
 <p align="center">
-  ⭐ Todos los productos están desarrollados y mantenidos por mí utilizando Java, Spring Boot, React, MySQL y arquitecturas de software escalables.
+  ⭐ Todos los productos están desarrollados y mantenidos por mí y mi equipo utilizando Java, Spring Boot, React, MySQL y arquitecturas de software escalables.
 </p>
 
 ---
