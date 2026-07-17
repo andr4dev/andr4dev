@@ -86,7 +86,7 @@ Plataforma SaaS para la administración de lavaderos de vehículos.
 
 ## Cuppo
 
-Plataforma SaaS para cafeterías y restaurantes.
+Plataforma SaaS para barberias y centros de belleza.
 
 <br>
 
