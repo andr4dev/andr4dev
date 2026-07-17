@@ -16,11 +16,11 @@
 
 👨‍🏫 **Monitor académico** de la materia **Programación Orientada a Objetos**
 
-🧭 Soy un **líder** y actualmente dirijo varios **proyectos académicos y personales**
+🧭 Soy un **líder** y actualmente dirijo  **2 SAAS con clientes operando**
 
 🚀 Trabajando en mi startup **SURGEIX**, enfocada en vender **Software as a Service (SaaS)**
 
-💼 A nivel técnico soy **Desarrollador Junior Backend & Frontend**
+💼 A nivel técnico soy **Desarrollador Fullstack**
 
 🏗️ Domino **arquitecturas de software** y tengo sólidos conocimientos en **bases de datos SQL**
 
@@ -45,6 +45,13 @@
       <p>Startup enfocada en el desarrollo y venta de soluciones <b>Software as a Service (SaaS)</b>. Liderando el diseño de arquitectura y desarrollo full-stack.</p>
        <a href="https://surgeix.com">
       <p><img src="https://img.shields.io/badge/Estado-En%20desarrollo-yellow?style=flat-square" /></p>
+    </td>
+    <td align="center" width="50%">
+      <h3>📚 Surgeix Wash y Cuppo</h3>
+      <p> Founder de dos SAAS operando actualmente, desarolladas usando principios de <b>POO</b>, <b>arquitecturas de software</b> y <b>bases de datos SQL</b>.</p>
+      <a href="https://wash.surgeix.com">
+        <a href="https://cuppo.surgeix.com">
+      <p><img src="https://img.shields.io/badge/Rol-L%C3%ADder%20%26%20Desarrollador-blue?style=flat-square" /></p>
     </td>
     <td align="center" width="50%">
       <h3>📚 Proyectos Académicos</h3>
